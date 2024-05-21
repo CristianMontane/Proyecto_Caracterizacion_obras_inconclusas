@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Proyecto_Caracterizacion_obras_inconclusas/static/css/main.ae42ac5f.css",
+    "main.js": "/Proyecto_Caracterizacion_obras_inconclusas/static/js/main.601d032c.js",
+    "index.html": "/Proyecto_Caracterizacion_obras_inconclusas/index.html",
+    "main.ae42ac5f.css.map": "/Proyecto_Caracterizacion_obras_inconclusas/static/css/main.ae42ac5f.css.map",
+    "main.601d032c.js.map": "/Proyecto_Caracterizacion_obras_inconclusas/static/js/main.601d032c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.601d032c.js"
+  ]
+}
