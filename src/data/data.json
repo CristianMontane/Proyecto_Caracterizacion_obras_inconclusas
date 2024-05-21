@@ -1,10 +1,11 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Caracterizacion de obras inconclusas",
+    "paragraph": "En esta pagina encontraras información respecto a la obra de 'Reconocimiento, reforzamiento estructural, ampliación y cerramiento del centro de bienestar animal del municipio de Soacha', además de las características que identifican a una obra inconclusa y porque esta se considera una de ellas"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "El Centro de Bienestar Animal en Soacha, Cundinamarca, es una obra que se encuentra en un estado avanzado pero no ha sido finalizada. La construcción tenía como fecha estimada de conclusión junio de 2021, sin embargo, diversos retrasos debido a prórrogas y problemas heredados de la administración anterior han impactado su avance. En la actualidad, la obra presenta un progreso físico del 57% y un avance financiero del 42.89%, con sobrecostos significativos que han llevado la inversión total a más de tres mil trescientos millones de pesos.",
+    "objective": "El objetivo principal de este proyecto en Soacha era mejorar el centro de bienestar animal del municipio. No obstante, ha enfrentado obstáculos durante su ejecución. Esto ha resultado en demoras y una inversión considerable de dinero que, hasta ahora, no se ve reflejada en los avances del proyecto. Como resultado, el municipio de Soacha aún carece de un centro de bienestar animal adecuado.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",

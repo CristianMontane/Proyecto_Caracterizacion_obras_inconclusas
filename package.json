@@ -1,6 +1,5 @@
 {
   "name": "landingpage-react-template",
-  "homepage": "https://CristianMontane.github.io/Proyecto_Caracterizacion_obras_inconclusas",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

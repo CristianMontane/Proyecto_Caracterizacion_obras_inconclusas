@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url("https://transparenciave.org/wp-content/uploads/2022/09/2-Metro-guarenas-Creditos-Sergio-Gonzalez-2.jpg") center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -303,9 +303,11 @@ header .intro-text {
   border-right: 0;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
 }
-#about p {
+#about .about-text p {
   line-height: 24px;
   margin: 30px 0;
+  font-weight: bold;
+  color: black;
 }
 /* Services Section */
 #services {
