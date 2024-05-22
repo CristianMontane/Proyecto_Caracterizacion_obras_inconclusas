@@ -1961,7 +1961,10 @@ pre code {
     width: 41.66666667%;
   }
   .col-md-4 {
-    width: 33.33333333%;
+    width: 33.33333333%;  
+    margin: 20px 0px 20px;
+    color: black;
+    font-weight: inherit;
   }
   .col-md-3 {
     width: 25%;
@@ -4274,9 +4277,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   height: 50px;
-  padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
+  display: flex;
+  align-items: center;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
