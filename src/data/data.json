@@ -21,49 +21,49 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "",
+      "largeImage": "https://www.alcaldiasoacha.gov.co/NuestraAlcaldia/SaladePrensa/Paginas/Soacha-tendra-Centro-de-Bienestar-Animal.aspx",
+      "smallImage": "https://www.alcaldiasoacha.gov.co/NuestraAlcaldia/SaladePrensa/PublishingImages/notaanimal1.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "",
+      "largeImage": "https://www.wradio.com.co/2022/03/30/denuncian-posibles-irregularidades-y-demoras-en-la-entrega-del-centro-de-bienestar-animal-en-soacha/",
+      "smallImage": "https://noticiasyrespuestas.com/wp-content/uploads/2022/03/Centro-Bienestar-Animal-Soacha-1-e1648652820583.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "",
+      "largeImage": "https://soachainiciativaciudadana.com/en-2021-soacha-contara-con-su-propio-centro-de-bienestar-animal/",
+      "smallImage": "https://imagenes.eltiempo.com/files/image_1200_600/uploads/2020/11/09/5fa9e673dd830.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "",
+      "largeImage": "https://noticiasyrespuestas.com/2022/03/30/personeria-de-soacha-alerta-sobre-retraso-en-obras-y-entrega-del-centro-de-bienestar-animal/",
+      "smallImage": "https://noticiasyrespuestas.com/wp-content/uploads/2022/03/Centro-Bienestar-Animal-Soacha-3.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "",
+      "largeImage": "https://www.elespectador.com/la-red-zoocial/por-que-se-ha-demorado-la-entrega-del-centro-de-bienestar-animal-de-soacha/",
+      "smallImage": "https://www.elespectador.com/resizer/L-t2MHZsdKZWbsfvjle8LIAIrwQ=/920x613/filters:quality(60):format(jpeg)/www.elespectador.com/resizer/xG7LZIgbxBU1vX09UZs0Ha7z_TU=/arc-anglerfish-arc2-prod-elespectador/public/6RPBKGAH2BEOFIOJ7V55GYN63E.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "",
+      "largeImage": "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/K2DPV5YGOVBCFCZRJGPKD7IRSI.jpeg",
+      "smallImage": "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/K2DPV5YGOVBCFCZRJGPKD7IRSI.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "",
+      "largeImage": "https://www.semana.com/confidenciales/articulo/alcalde-de-soacha-cundinamarca-se-compromete-a-terminar-el-centro-de-bienestar-animal-que-se-estaba-convirtiendo-en-un-elefante-blanco/202417/",
+      "smallImage": "https://www.semana.com/resizer/v2/3FMH3OI5YVCQHK5VZ3B7V2RFT4.jpeg?auth=b5efaf63f475a2d9d61f9b7a18b27c01203de0b10f416dfcec9d853013df09f3&smart=true&quality=75&width=1280&height=720"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "",
+      "largeImage": "https://periodismopublico.com/alcalde-de-soacha-no-dejara-que-el-centro-de-bienestar-animal-sea-un-elefante-blanco",
+      "smallImage": "https://epuxua.gov.co/wp-content/uploads/2022/07/WhatsApp-Image-2024-02-29-at-3.57.38-PM.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "",
+      "largeImage": "https://www.semana.com/confidenciales/articulo/alcalde-de-soacha-cundinamarca-se-compromete-a-terminar-el-centro-de-bienestar-animal-que-se-estaba-convirtiendo-en-un-elefante-blanco/202417/",
+      "smallImage": "https://periodismopublico.com/wp-content/uploads/2024/02/Centro-de-bienestar-animal-Soacha.jpg"
     }
   ],
   "Services": [
@@ -88,7 +88,7 @@
       "text": "La fecha de inicio de la obra fue el 24 de febrero de 2021 y debía concluir el 23 de junio del 2021, según el acta de inicio."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-pie-chart",
       "name": "Nivel de avance de la obra: ",
       "text": "Según los reportes de la interventoría, la ejecución física de la obra está al 57% y la ejecución financiera al 42.89%."
     },
@@ -98,51 +98,52 @@
       "text": "La obra tiene retraso del 43%. La alcaldía indica que se debe a varias prórrogas y fallas que fueron heredadas de la administración anterior."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-user",
       "name": "Número e identificación del contratista",
       "text": "Identificación del contratista es Nit de Persona Jurídica No. 900633259. Razón social del contratista es CONSORCIO TRANSFORMANDO PAÍS."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-money",
       "name": "Sobrecostos de la obra",
       "text": "La inversión actual está valuada en más de tres mil trescientos millones de pesos, lo que representa un sobrecosto de más de 1.838.000.000 de pesos."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-building",
       "name": "Posibilidad de finalización",
       "text": "El alcalde de Soacha, Julián Sánchez Perico, se comprometió a terminar el Centro de Bienestar Animal que se estaba convirtiendo en un ‘elefante blanco’."
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://pbs.twimg.com/profile_images/1751093102062755840/Er8ckFmU_400x400.jpg",
+      "text": "\"Soacha tendra un centro de bienestar animal: Para mediados del otro año la ciudad inaugurará el lugar...\"",
+      "name": "ALCALDIA DE SOACHA",
+      "link": ""
+    },  
+    {
+      "img": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/429641179_945414647586790_4662480251116436036_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GWxHyWRZ-rEQ7kNvgHz8gUm&_nc_ht=scontent-bog2-2.xx&oh=00_AYDOU_z0EouZYGZUbf0G1o640gtyzo6Cbf0tZUK1dWwJDA&oe=6653BB7F",
+      "text": "\"La Personería Municipal de Soacha viene desarrollando diferentes acciones frente al seguimiento de liquidación del contrato de...\"",
+      "name": "PERIODISMO PUBLICO"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/353065355_651456410354624_4798075074241735098_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEAQDFPJapQ-qoa5H8YNIE5-Hxy_ggooeL4fHL-CCih4nTz6yotVCCX9xIc45tWHkvJt956gdwwBjKc4U0E8-12&_nc_ohc=tFzBA3cb42QQ7kNvgHLLLLt&_nc_ht=scontent-bog2-2.xx&oh=00_AYAiPrk8cU4Qmv9ssFTB9-EsFB8wXr31FQVMJvoJqwmu-Q&oe=6653CE20",
+      "text": "\"¿Por qué se ha demorado la entrega del Centro de bienestar animal de Soacha? Varios animalistas del municipio denuncian...\"",
+      "name": "EL ESPECTADOR"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://s3.amazonaws.com/cdn.radionewproject.com/1ccefd496b48e6ab6883d30156bb7634.jpg",
+      "text": "\"Denuncian posibles irregularidades y demoras en la entrega del Centro de Bienestar Animal en Soacha. Por presuntas inconsistencias en los diseños...\"",
+      "name": "W RADIO"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://pbs.twimg.com/profile_images/1762544534842421248/Dhja36lJ_400x400.jpg",
+      "text": "\"SOACHA - Centro de bienestar animal en construcción, con promesa de entrega este año. Seguimos en nuestro...\"",
+      "name": "ANDREA PADILLA VILLARRAGA"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/429641179_945414647586790_4662480251116436036_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GWxHyWRZ-rEQ7kNvgHz8gUm&_nc_ht=scontent-bog2-2.xx&oh=00_AYDOU_z0EouZYGZUbf0G1o640gtyzo6Cbf0tZUK1dWwJDA&oe=6653BB7F",
+      "text": "\"Alcalde de Soacha no dejará que el Centro de Bienestar Animal sea un elefante blanco. En una visita a la obra, el alcalde de Soacha...\"",
+      "name": "PERIODISMO PUBLICO"
     }
   ],
   "Team": [

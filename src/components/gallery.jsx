@@ -6,13 +6,12 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Galleria de imagenes</h2>
+          <h2>Galleria</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            En esta seccion se presentaran varias imagenes que evidencian el avance y estado de la obra
           </p>
         </div>
-        <div className="row">
+        <div className="row" style={{display:"inline-flex" ,justifyContent: 'center', alignItems: 'center' }}>
           <div className="portfolio-items">
             {props.data
               ? props.data.map((d, i) => (
