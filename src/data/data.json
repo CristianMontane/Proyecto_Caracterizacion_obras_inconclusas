@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "Caracterizacion de obras inconclusas",
-    "paragraph": "En esta pagina encontraras información respecto a la obra de 'Reconocimiento, reforzamiento estructural, ampliación y cerramiento del centro de bienestar animal del municipio de Soacha', además de las características que identifican a una obra inconclusa y porque esta se considera una de ellas"
+    "title": "Caracterización de obras inconclusas",
+    "paragraph": "En esta página encontraras información acerca a la obra 'Reconocimiento, reforzamiento estructural, ampliación y cerramiento del centro de bienestar animal del municipio de Soacha', además de las características que identifican a una obra inconclusa y porque esta se considera una de ellas."
   },
   "About": {
     "paragraph": "El Centro de Bienestar Animal en Soacha, Cundinamarca, es una obra que se encuentra en un estado avanzado pero no ha sido finalizada. La construcción tenía como fecha estimada de conclusión junio de 2021, sin embargo, diversos retrasos debido a prórrogas y problemas heredados de la administración anterior han impactado su avance. En la actualidad, la obra presenta un progreso físico del 57% y un avance financiero del 42.89%, con sobrecostos significativos que han llevado la inversión total a más de tres mil trescientos millones de pesos.",
@@ -68,34 +68,49 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-file-text-o",
+      "name": "Licencias",
+      "text": "consorcio p&s, diseños bienestar animal, especialista estructural: jair antonio cárdenas r., mat: 25202-61475 ; titular de la licencia: alcaldía municipal de soacha"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-file",
+      "name": "Contrato",
+      "text": "Número 2247, valor asignado de 1.461.335.795 pesos, modalidad de obra pública."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-file-pdf-o",
+      "name": "Objeto del contrato",
+      "text": " Reconocimiento, reforzamiento estructural, ampliación y cerramiento del Centro de Bienestar Animal."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-clock-o",
+      "name": "Tiempo de ejecucuion (4) meses",
+      "text": "La fecha de inicio de la obra fue el 24 de febrero de 2021 y debía concluir el 23 de junio del 2021, según el acta de inicio."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Nivel de avance de la obra: ",
+      "text": "Según los reportes de la interventoría, la ejecución física de la obra está al 57% y la ejecución financiera al 42.89%."
+    },
+    {
+      "icon": "fa fa-calendar",
+      "name": "Retraso de la obra",
+      "text": "La obra tiene retraso del 43%. La alcaldía indica que se debe a varias prórrogas y fallas que fueron heredadas de la administración anterior."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Número e identificación del contratista",
+      "text": "Identificación del contratista es Nit de Persona Jurídica No. 900633259. Razón social del contratista es CONSORCIO TRANSFORMANDO PAÍS."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Sobrecostos de la obra",
+      "text": "La inversión actual está valuada en más de tres mil trescientos millones de pesos, lo que representa un sobrecosto de más de 1.838.000.000 de pesos."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Posibilidad de finalización",
+      "text": "El alcalde de Soacha, Julián Sánchez Perico, se comprometió a terminar el Centro de Bienestar Animal que se estaba convirtiendo en un ‘elefante blanco’."
     }
   ],
   "Testimonials": [
@@ -162,24 +177,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-clock-o",
+      "title": "Retrasos en el cronograma",
+      "text": "Se suelen experimentar retrasos significativos, debido a problemas como cambios en el diseño, falta de coordinación, o demoras en la obtención de permisos."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-money",
+      "title": "Sobrecostos",
+      "text": "Estos a menudo incurren en gastos superiores a los presupuestados originalmente, ya sea por la necesidad de materiales adicionales, costos laborales imprevistos, o mala gestión financiera (Corrupción)."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Impacto social y económico negativo",
+      "text": "Estas obras generan molestias, inseguridad, y pérdida de confianza en las autoridades. Además, representan una inversión no productiva que puede afectar las finanzas públicas o privadas involucradas."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-exclamation-circle",
+      "title": "Problemas contractuales y administrativos:",
+      "text": "La falta de claridad en los contratos, disputas entre las partes involucradas y problemas de gestión administrativa pueden llevar a la paralización de las obras."
     }
   ]
 }
