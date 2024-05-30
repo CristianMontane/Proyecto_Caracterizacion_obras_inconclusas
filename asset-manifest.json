@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Proyecto_Caracterizacion_obras_inconclusas/static/css/main.ae42ac5f.css",
-    "main.js": "/Proyecto_Caracterizacion_obras_inconclusas/static/js/main.5d782c85.js",
+    "main.css": "/Proyecto_Caracterizacion_obras_inconclusas/static/css/main.21d2e8e2.css",
+    "main.js": "/Proyecto_Caracterizacion_obras_inconclusas/static/js/main.2d3bea2a.js",
     "index.html": "/Proyecto_Caracterizacion_obras_inconclusas/index.html",
-    "main.ae42ac5f.css.map": "/Proyecto_Caracterizacion_obras_inconclusas/static/css/main.ae42ac5f.css.map",
-    "main.5d782c85.js.map": "/Proyecto_Caracterizacion_obras_inconclusas/static/js/main.5d782c85.js.map"
+    "main.21d2e8e2.css.map": "/Proyecto_Caracterizacion_obras_inconclusas/static/css/main.21d2e8e2.css.map",
+    "main.2d3bea2a.js.map": "/Proyecto_Caracterizacion_obras_inconclusas/static/js/main.2d3bea2a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae42ac5f.css",
-    "static/js/main.5d782c85.js"
+    "static/css/main.21d2e8e2.css",
+    "static/js/main.2d3bea2a.js"
   ]
 }
