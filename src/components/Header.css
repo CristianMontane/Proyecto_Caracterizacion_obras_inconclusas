@@ -1,0 +1,18 @@
+.parrafoHeader {
+  margin-top: 20px;
+  font-weight: inherit;
+  background: rgba(0, 0, 0, 0.85);
+  padding: 15px;
+  border-radius: 40px;
+}
+
+@media (max-width: 990px) {
+  .ResponsiveDesing {
+    /* background-color: red; */
+    font-size: 1px;
+    padding: 1px;
+  }
+  .parrafoHeader{
+    font-size: 1px;
+}
+}

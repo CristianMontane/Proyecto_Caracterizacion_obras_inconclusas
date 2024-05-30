@@ -239,6 +239,15 @@ a:focus,
   margin: 0 auto;
   margin-bottom: 60px;
 }
+@media (max-width: 990px) {
+  .intro p {
+    margin-top: 40px;
+    font-size: 15px;
+  }
+  .intro h1 {
+    font-size: 42px;
+  }
+}
 header .intro-text {
   padding-top: 350px;
   padding-bottom: 200px;

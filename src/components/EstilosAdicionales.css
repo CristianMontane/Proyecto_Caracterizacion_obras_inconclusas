@@ -1,0 +1,37 @@
+.InformacionAdicional {
+  display: flex;
+  justify-content: space-between;
+  color: black;
+}
+.InformationContainer {
+  width: 48%;
+}
+
+.UltimateContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 3%;
+  color: black;
+}
+
+@media (max-width: 990px) {
+  .InformacionAdicional {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2.5%;
+  }
+  .InformationContainer {
+    width: 100%;
+  }
+  .UltimateContainer {
+    color: black;
+    margin-left: 2.5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    margin-top: 3%;
+  }
+}

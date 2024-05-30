@@ -1,3 +1,4 @@
+import './Header.css'
 import React from 'react'
 
 export const Header = props => {
@@ -8,27 +9,21 @@ export const Header = props => {
           <div className='container'>
             <div className='row'>
               <div className='col-md-8 col-md-offset-2 intro-text'>
-                <h1>
-                  {props.data ? props.data.title : 'Loading'}
-                  <span></span>
-                </h1>
-                <p
-                  style={{
-                    marginTop: '20px',
-                    fontWeight: "inherit",
-                    background: 'rgba(0, 0, 0, 0.85)',
-                    padding: '15px',
-                    borderRadius: '40px',
-                  }}
-                >
-                  {props.data ? props.data.paragraph : 'Loading'}
-                </p>
-                <a
-                  href='#features'
-                  className='btn btn-custom btn-lg page-scroll'
-                >
-                  Descubre mas
-                </a>{' '}
+                <div className='ResponsiveDesing'>
+                  <h1>
+                    {props.data ? props.data.title : 'Loading'}
+                    <span></span>
+                  </h1>
+                  <p className='parrafoHeader'>
+                    {props.data ? props.data.paragraph : 'Loading'}
+                  </p>
+                  <a
+                    href='#features'
+                    className='btn btn-custom btn-lg page-scroll'
+                  >
+                    Descubre mas
+                  </a>
+                </div>
               </div>
             </div>
           </div>
